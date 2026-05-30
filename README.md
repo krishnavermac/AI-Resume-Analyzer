@@ -20,19 +20,15 @@ AI Resume Analyzer is a MERN stack web application that analyzes uploaded resume
 
 ## Tech Stack
 
-### Frontend
-- React.js
-- Vite
-- Axios
-- CSS
-
-### Backend
-- Node.js
-- Express.js
-- Multer
-- MongoDB
-- Mongoose
-- Groq API
+| Layer             | Technology          |
+|-------------------|---------------------|
+| Frontend          | React.js, Vite, CSS |
+| API Communication | Axios               |
+| Backend           | Node.js, Express.js |
+| File Handling     | Multer              |
+| Database          | MongoDB, Mongoose   |
+| AI Integration    | Groq API            |
+| Version Control   | Git & GitHub        |
 
 ## Project Structure
 
